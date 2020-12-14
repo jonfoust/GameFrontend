@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Client", "Game Client\Game Client.csproj", "{EEC05A40-8CBD-44FE-B685-06E5AC9A063A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Frontend", "Game Frontend\Game Frontend.csproj", "{4A193D33-EFD8-43A8-A28A-9FD7D63C6106}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "protos", "protos", "{730AC681-C95E-4331-B4F4-C733DB488DF2}"
+	ProjectSection(SolutionItems) = preProject
+		gamefrontend.proto = gamefrontend.proto
+		messages.proto = messages.proto
+		status.proto = status.proto
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEC05A40-8CBD-44FE-B685-06E5AC9A063A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC05A40-8CBD-44FE-B685-06E5AC9A063A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC05A40-8CBD-44FE-B685-06E5AC9A063A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC05A40-8CBD-44FE-B685-06E5AC9A063A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A193D33-EFD8-43A8-A28A-9FD7D63C6106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A193D33-EFD8-43A8-A28A-9FD7D63C6106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A193D33-EFD8-43A8-A28A-9FD7D63C6106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A193D33-EFD8-43A8-A28A-9FD7D63C6106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E8BA9B5-5E80-4123-9C21-506364CA2406}
+	EndGlobalSection
+EndGlobal

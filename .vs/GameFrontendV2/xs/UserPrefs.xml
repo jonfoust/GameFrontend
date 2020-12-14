@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{EEC05A40-8CBD-44FE-B685-06E5AC9A063A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="messages.proto">
+    <Files>
+      <File FileName="gamefrontend.proto" Line="1" Column="29" />
+      <File FileName="Game Frontend/GameFrontendMMServiceImpl.cs" Line="1" Column="1" />
+      <File FileName="Game Frontend/Program.cs" />
+      <File FileName="Game Client/Program.cs" Line="1" Column="29" />
+      <File FileName="messages.proto" Line="1" Column="1" />
+      <File FileName="status.proto" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GameFrontendV2" expanded="True">
+            <Node name="protos" expanded="True" />
+            <Node name="Game Client" expanded="True">
+              <Node name="messages.proto" selected="True" />
+            </Node>
+            <Node name="Game Frontend" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Game_220Client PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

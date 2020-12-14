@@ -1,0 +1,6 @@
+models/Gamefrontend.cs \
+models/GamefrontendGrpc.cs: B:/Desktop/OpenMatch/GameFrontendV2/packages/Grpc.Tools.2.33.1/build/native/include/google/protobuf/any.proto\
+ ../status.proto\
+ B:/Desktop/OpenMatch/GameFrontendV2/packages/Grpc.Tools.2.33.1/build/native/include/google/protobuf/timestamp.proto\
+ ../messages.proto\
+ ../gamefrontend.proto
